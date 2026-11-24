@@ -2,7 +2,7 @@
 
 **PMP-Certified Project Manager · 8 Years of Experience · Toronto, Canada**
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4143--2816-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4143-2816)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24490626.svg)](https://doi.org/10.5281/zenodo.24490626) [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4143--2816-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4143-2816)
 
 I'm a Project Manager in the Greater Toronto Area, Ontario, Canada, with 8 years of project management experience across **commercial construction, architectural millwork, interior fit-outs and healthcare-related projects**. I hold the **Project Management Professional (PMP®)** certification.
 
@@ -17,6 +17,8 @@ I also run **[Project Manager Land](https://www.youtube.com/@ProjectManagerLand)
 - Risk vs. issue vs. change
 - Kickoff, risk review, closeout and fit-out/millwork coordination checklists
 - Charter, scope statement, change request, RACI, risk register and status report templates
+
+Archived on Zenodo, with a citable DOI: [10.5281/zenodo.24490626](https://doi.org/10.5281/zenodo.24490626)
 
 ## 🎥 Latest lessons
 - [Why Most Projects Fail Before They Start (5 Steps to Fix It)](https://www.youtube.com/watch?v=ZPpq8Pobk5g)
