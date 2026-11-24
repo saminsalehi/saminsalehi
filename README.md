@@ -2,6 +2,8 @@
 
 **PMP-Certified Project Manager · 8 Years of Experience · Toronto, Canada**
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4143--2816-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4143-2816)
+
 I'm a Project Manager in the Greater Toronto Area, Ontario, Canada, with 8 years of project management experience across **commercial construction, architectural millwork, interior fit-outs and healthcare-related projects**. I hold the **Project Management Professional (PMP®)** certification.
 
 I also run **[Project Manager Land](https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA)**, a YouTube channel that makes project management easy to understand, practical and useful in the real world. It's aimed at beginners, project coordinators and PMP candidates.
@@ -25,6 +27,7 @@ I also run **[Project Manager Land](https://www.youtube.com/channel/UCYvrKyS3qh8
 Project planning and scheduling · Scope and change control · Risk management · Stakeholder communication · Commercial interiors and fit-outs · Architectural millwork · Healthcare projects · PMP® preparation
 
 ## 🔗 Connect
+- ORCID: [0009-0005-4143-2816](https://orcid.org/0009-0005-4143-2816)
 - LinkedIn: [linkedin.com/in/saminsalehi-pmp](https://www.linkedin.com/in/saminsalehi-pmp/)
 - YouTube: [Project Manager Land](https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA)
 
